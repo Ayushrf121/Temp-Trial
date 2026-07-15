@@ -4,3 +4,4 @@ I am making the changes for my own to test the Git hub Pull action.
 
 I am modified by thevs code
 .
+ctrl + shift + p and type view git graph
